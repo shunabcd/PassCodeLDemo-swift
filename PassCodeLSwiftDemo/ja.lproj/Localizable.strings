@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  PassCodeLSwiftDemo
+
+ Created by s-sakurai on 2017/04/07.
+  Copyright © 2017年 s-sakurai. All rights reserved.
+*/
+
+/* DemoTableViewLabel */
+"SetPasscodeLabel" = "パスコード設定";
+"ChangePasscodeLabel" = "パスコード変更";
+"SetTouchIDLabel" = "TouchID設定";

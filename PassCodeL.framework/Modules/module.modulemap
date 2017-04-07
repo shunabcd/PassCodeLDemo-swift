@@ -1,0 +1,10 @@
+framework module PassCodeL {
+  umbrella header "PassCodeL.h"
+
+  export *
+  module * { export * }
+}
+
+module PassCodeL.Swift {
+    header "PassCodeL-Swift.h"
+}
