@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "パスコードロックdemo"; ObjectID = "5pH-wi-rmt"; */
+"5pH-wi-rmt.title" = "パスコードロックdemo";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "6as-UL-hJU"; */
+"6as-UL-hJU.text" = "Detail";
+
+/* Class = "UIViewController"; title = "パスコードロックDemo"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "パスコードロックDemo";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Dll-qO-5Q1"; */
+"Dll-qO-5Q1.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ydq-fK-gCp"; */
+"Ydq-fK-gCp.text" = "Label";
